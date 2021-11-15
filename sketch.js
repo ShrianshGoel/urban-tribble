@@ -49,7 +49,7 @@ function preload(){
   b3=loadAnimation("https://c.tenor.com/o23PLsTxPLoAAAAd/wallpaper.gif")
  
   b4=loadAnimation("https://shrianshgoel.github.io/solid-octo-palm-tree/smile_loader_by_gleb.gif");
-  fire=loadFont("https://assets.editor.p5js.org/5fe6cd350045980020080300/8ee4d571-40e4-4898-8a5f-712403e1e7b9.ttf")
+  fire=loadFont("8ee4d571-40e4-4898-8a5f-712403e1e7b9.ttf")
 }
 
 
